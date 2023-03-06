@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello, I'm Luis Córdoba V. 😎
+________________________________________________________________________________
+#### _I'm a Developer in process, I'm studing my first Programation Bootcamp._    
+
+> I'm Mechanical Engineer, But, I would like to take a 180 degree turn in my professional life.
+> 
+✨ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+ > My objective is try to know all the secrets and development the skills that I will need for be a excellent programer, and maybe one day, be a **Full-Stack.** 💻💻
+ > - 🌱 I’m currently learning JavaScript, CSS, Html and Java.
 
 <!--
 **LuisCordobaV/LuisCordobaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
